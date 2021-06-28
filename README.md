@@ -4,7 +4,7 @@
 
 
 
-# 📱About the websit📲
+# 📱About the website📲
 <hr>
 Our site tries to describe different types of Aqua culture and their good and bad sides. 
 
