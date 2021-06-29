@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+h1{
+	margin-top: 40px;
+	font-size: 50px;
+	margin-bottom: 60px;
+	text-align: center;
+	color:#00ffff;
+}
+
+.team{
+	margin-top: 140px;
+	display: flex;
+	justify-content: center;
+	width: auto;
+	text-align: center;
+}
+
+.member{
+	background: #99ccff;
+	margin: 5px;
+	margin-bottom: 50px;
+	width: 300px;
+	padding: 20px;
+	line-height: 20px;
+	color: #90EE90;
+	position: relative;
+}
+
+
+h3{
+	color: #0000cc;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+
+img{
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+        
+}
+
+button{
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0;
+	padding: 10px 15px;
+	width: 20%;
+	border: 0;
+	border-radius: 5px;
+	cursor:pointer;
+	margin-left: 40%;
+	background:#00ffff;
+}
+
+button:hover {
+	transition:0.5s;
+
+	background: #00ffff;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+	background: #00ffff;
+}
+
+p{
+	font-size: 20px;
+color: #0000cc;
+}
+
+.background{
+	background-image: url('https://cdn.wallpapersafari.com/60/81/iEyIBo.jpeg');
+}

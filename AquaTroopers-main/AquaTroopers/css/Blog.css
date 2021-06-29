@@ -1,0 +1,47 @@
+.background{
+	background-image: url('https://i.pinimg.com/originals/7a/d0/e8/7ad0e868639fe362b775664d8ca1d726.jpg');
+	background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+	color: beige;
+} 
+
+.box{
+	max-width: 980px;
+    background-color: rgba(0,0,255,0.3);
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid lightblue;
+	margin: auto;
+	padding: 35px;
+}
+
+p {
+	font-size: 20px;
+	color: beige;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+	color: beige;
+} 
+
+.btn{
+font-size: 22px;
+font-weight: bold;
+margin: 45px 0;
+padding: 10px 7px;
+width: 100%;
+border: 0;
+border-radius: 4px;
+float:right;
+cursor:pointer;
+background: #0066ff;
+ 
+}
